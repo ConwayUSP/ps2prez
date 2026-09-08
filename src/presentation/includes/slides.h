@@ -5,19 +5,19 @@
     } Slide;
     
 alignas(64) const unsigned char slide_0 [] = {
-  #embed "output/Apresentação geral(8).png"
+  #embed "output/Apresentação geral(1).png"
 };
 
 alignas(64) const unsigned char slide_1 [] = {
-  #embed "output/Apresentação geral(2).png"
+  #embed "output/Apresentação geral(10).png"
 };
 
 alignas(64) const unsigned char slide_2 [] = {
-  #embed "output/Apresentação geral(9).png"
+  #embed "output/Apresentação geral(2).png"
 };
 
 alignas(64) const unsigned char slide_3 [] = {
-  #embed "output/Apresentação geral(7).png"
+  #embed "output/Apresentação geral(3).png"
 };
 
 alignas(64) const unsigned char slide_4 [] = {
@@ -25,7 +25,7 @@ alignas(64) const unsigned char slide_4 [] = {
 };
 
 alignas(64) const unsigned char slide_5 [] = {
-  #embed "output/Apresentação geral(1).png"
+  #embed "output/Apresentação geral(5).png"
 };
 
 alignas(64) const unsigned char slide_6 [] = {
@@ -33,15 +33,15 @@ alignas(64) const unsigned char slide_6 [] = {
 };
 
 alignas(64) const unsigned char slide_7 [] = {
-  #embed "output/Apresentação geral(5).png"
+  #embed "output/Apresentação geral(7).png"
 };
 
 alignas(64) const unsigned char slide_8 [] = {
-  #embed "output/Apresentação geral(10).png"
+  #embed "output/Apresentação geral(8).png"
 };
 
 alignas(64) const unsigned char slide_9 [] = {
-  #embed "output/Apresentação geral(3).png"
+  #embed "output/Apresentação geral(9).png"
 };
 
 Slide presentation[] = {

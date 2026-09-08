@@ -4,6 +4,10 @@ output_path = Path(r'./output')
 
 image_paths = [image for image in output_path.iterdir() if 'png' in image.name]
 
+image_paths.sort()
+
+print(image_paths)
+
 with open('slides.h', 'w') as slide_header:
 
     slide_header.write("""
