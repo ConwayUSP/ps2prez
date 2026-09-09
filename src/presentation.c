@@ -33,8 +33,8 @@
 #define STB_IMAGE_IMPLEMENTATION
 #include "includes/stb_image.h"
 
-#define IMAGE_WIDTH 640
-#define IMAGE_HEIGHT 512
+#define IMAGE_WIDTH 720
+#define IMAGE_HEIGHT 480
 
 static char padBuf[256] __attribute__((aligned(64)));
 
